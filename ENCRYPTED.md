@@ -1,6 +1,6 @@
 ### ©Thorsten Bylicki
 ---
-|Python Encrypted Algorithmus by Thorsten Bylicki| www.bylickilabs.de| github.com/bylickilabs|
+|Python Encrypted Algorithmus by Bylickilabs| www.bylickilabs.de| github.com/bylickilabs|
 |---|---|---|
 ---
 import base64, codecs
