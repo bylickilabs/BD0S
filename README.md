@@ -1,3 +1,3 @@
-|D0S - Bylicki Denial of Service|
+|BD0S - Bylicki Denial of Service|
 |---|
 ---
