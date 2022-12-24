@@ -7,4 +7,4 @@ magic =
 love =
 god =
 destiny =
-
+joy =
