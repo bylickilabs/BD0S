@@ -9,7 +9,7 @@ god =
 destiny =
 joy =
 trust =
-
+eval
 
 
 
