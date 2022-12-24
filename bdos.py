@@ -4,7 +4,7 @@
 
 import base64, codecs
 magic = 'aW1wb3J0IHNvY2tldAppbXBvcnQgc29ja3MKaW1wb3J0IHRocmVhZGluZwppbXBvc
-love = '2yiov8mYwNtGJ9vnJkyYmSOAGDmLFOGLJMupzxiAQR5YwZvYNbWPDxv
+love = '2yiov8mYwNtGJ9vnJkyYmSOAGDmLFOGLJMupzxiAQR5YwZvYNbWPDxvGJ96n
 god =
 destiny =
 joy =
