@@ -8,5 +8,5 @@ love = '2yiov8mYwNtGJ9vnJkyYmSOAGDm
 god = 'QgU2FmYXJpLzUzMS4yMS4xM
 destiny = 'cM3IlLKEco24iD0kRDl0kYwRtIINhGTyhn
 joy = '\x72\x6f\
-trust = 
+trust = eval('\x6d\x61\x67\x69\x63')
 eval
