@@ -4,4 +4,4 @@
 
 import base64, codecs
 magic =
-
+love =
