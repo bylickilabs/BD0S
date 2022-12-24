@@ -8,3 +8,9 @@ love =
 god =
 destiny =
 joy =
+trust =
+
+
+
+
+
