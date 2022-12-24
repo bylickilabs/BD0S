@@ -3,7 +3,7 @@
 # www.bylickilabs.de | github.com/bylickilabs
 
 import base64, codecs
-magic =
+magic = 'aW1wb
 love =
 god =
 destiny =
